@@ -15,3 +15,15 @@ This script was created as per my requirement to add some noise to the already r
 * [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/audioOverlay.py)
 <hr>
 
+
+### Script II : Automated Email Sender 
+This script was created to automate one of my monotonous weekly ritual that is to send an email to my workplace address indicating the succesful completeion of my weekly task.  With the script, I have a statically placed subject and body that will be sent to a list of pre-determined recievers with the smtp server. 
+
+#### Libraries Used 
+1. [Datetime](https://docs.python.org/3/library/datetime.html)
+2. [SMTPLIB Module](https://docs.python.org/3/library/smtplib.html)
+
+* [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/automatedemail.py)
+<hr>
+
+
