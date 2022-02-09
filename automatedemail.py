@@ -31,7 +31,7 @@ def send_email():
     smtp_server = "smtp.gmail.com"
 
     #Setting the personal gmail credentials
-    password = "yourpassword"
+    password = "idskaefmzabjqlhk"
     sender_email = "regmi.prakriti24@gmail.com"
 
     #Setting the receiver emails

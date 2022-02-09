@@ -26,4 +26,14 @@ This script was created to automate one of my monotonous weekly ritual that is t
 * [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/automatedemail.py)
 <hr>
 
+### Script II : Automated Messenger Text Sender
+This script was created to automate sending message on messenger. Using the automation tool, selenium the Chrome Driver was used to navigate through the web elements and perform the send message task. 
+
+#### Resources Utilized
+
+1. [Selenium](https://www.selenium.dev/documentation/)
+2. [Time](https://docs.python.org/3/library/time.html)
+3. [XML Paths](https://www.w3schools.com/xml/xml_xpath.asp)
+<hr>
+
 
