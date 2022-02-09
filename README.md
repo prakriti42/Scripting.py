@@ -34,6 +34,7 @@ This script was created to automate sending message on messenger. Using the auto
 1. [Selenium](https://www.selenium.dev/documentation/)
 2. [Time](https://docs.python.org/3/library/time.html)
 3. [XML Paths](https://www.w3schools.com/xml/xml_xpath.asp)
-<hr>
 
+* [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/checkin.py)
+<hr>
 
