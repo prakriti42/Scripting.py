@@ -1,7 +1,9 @@
 '''
+
     Wriiten By : Prakriti Regmi 
     On : 8th Feb 2022
-    Description : This is a simple python script to send an automated email to the user.    
+    Description : This is a simple python script to send an automated email to the user.   
+    
 '''
 
 
