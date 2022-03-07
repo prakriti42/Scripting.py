@@ -47,7 +47,7 @@ This script was created to automate renaming of the files using python.
 1. [OS](https://www.geeksforgeeks.org/os-module-python-examples/)
 2. [Shutil](https://www.javatpoint.com/shutil-module-in-python)
 
-* [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/checkin.py)
+* [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/quickrenamer.py)
 <hr>
 
 
