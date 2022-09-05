@@ -50,4 +50,14 @@ This script was created to automate renaming of the files using python.
 * [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/quickrenamer.py)
 <hr>
 
+### Script V : Json Splitter
+This script was created to split the result and dump into multiple json results into a json file.
+
+#### Libraries Utilized
+
+1. [JSON](https://docs.python.org/3/library/json.html)
+
+* [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/jsonsplitter.py)
+<hr>
+
 
