@@ -61,3 +61,12 @@ This script was created to split the result and dump into multiple json results 
 <hr>
 
 
+#### Script VI : New line and Double Spaced Content Corrector 
+This script was created to read files out of a folder and replace the new lines out of it along with the double white spaces with a whitespace and save the updated txt into a new file.
+
+#### Libraries Utilized
+1. [OS](https://www.geeksforgeeks.org/os-module-python-examples/)
+2. [RegEx Module](https://docs.python.org/3/library/re.html)
+
+* [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/linereplacer.py)
+<hr>
