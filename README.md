@@ -70,6 +70,7 @@ This script was created to read files out of a folder and replace the new lines 
 
 * [Redirect to the Script](https://github.com/prakriti42/Scripting.py/blob/main/linereplacer.py)
 <hr>
+
 #### Script VII : Finding Automatic Differentiation
 This script was created to find automatic differentiation of a function using the deep learning framework tensorflow.
 
